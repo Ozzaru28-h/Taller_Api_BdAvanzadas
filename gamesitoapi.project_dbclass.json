@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "6abd0bcd6cd4e20d780fe001"
+  },
+  "name": "Jett",
+  "role": "Duelist",
+  "abilities": [
+    "Cloudburst",
+    "Updraft",
+    "Tailwind",
+    "Blade Storm"
+  ],
+  "release_year": "2020"
+},
+{
+  "_id": {
+    "$oid": "6abd7111aff70e989c447cb6"
+  },
+  "abilities": [
+    "Barrier Orb",
+    "Slow Orb",
+    "Healing Orb",
+    "Resurrection"
+  ],
+  "name": "Sage",
+  "role": "Sentinel",
+  "release_year": "2020",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6abd7125aff70e989c447cb7"
+  },
+  "abilities": [
+    "Cloudburst",
+    "Updraft",
+    "Tailwind",
+    "Blade Storm"
+  ],
+  "name": "Jett",
+  "role": "Duelist",
+  "release_year": "2020",
+  "__v": 0
+}]
